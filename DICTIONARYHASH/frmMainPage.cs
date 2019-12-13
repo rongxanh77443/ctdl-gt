@@ -55,8 +55,44 @@ namespace DICTIONARYHASH
             }
         }
         string tam = "";
+
+        //Hàm chuyển dấu tiếng việt
+        private static readonly string[] VietNamChar = new string[]
+         {
+        "aAeEoOuUiIdDyY",
+        "áàạảãâấầậẩẫăắằặẳẵ",
+        "ÁÀẠẢÃÂẤẦẬẨẪĂẮẰẶẲẴ",
+        "éèẹẻẽêếềệểễ",
+        "ÉÈẸẺẼÊẾỀỆỂỄ",
+        "óòọỏõôốồộổỗơớờợởỡ",
+        "ÓÒỌỎÕÔỐỒỘỔỖƠỚỜỢỞỠ",
+        "úùụủũưứừựửữ",
+        "ÚÙỤỦŨƯỨỪỰỬỮ",
+        "íìịỉĩ",
+        "ÍÌỊỈĨ",
+        "đ",
+        "Đ",
+        "ýỳỵỷỹ",
+        "ÝỲỴỶỸ"
+        };
+        public static string LocDau(string str)
+        {
+            //Thay thế và lọc dấu từng char      
+            for (int i = 1; i < VietNamChar.Length; i++)
+            {
+                for (int j = 0; j < VietNamChar[i].Length; j++)
+                    str = str.Replace(VietNamChar[i][j], VietNamChar[0][i - 1]);
+            }
+            return str;
+        }
+
         private void txtNhap_TextChanged(object sender, EventArgs e)
         {
+            if (txtNhap.Text != LocDau(txtNhap.Text))
+                {
+                MessageBox.Show(" Không nên viết tiếng việt có dấu !", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                txtNhap.Text = "";
+                }
             lstDSTu.Items.Clear();
             Dictionary td = new Dictionary();
             td.ReadFromData();
@@ -65,6 +101,8 @@ namespace DICTIONARYHASH
             tam = tam.ToLower();
             if (tam != "")
             {
+
+
                 string[] mangchuatu = new string[50];
                 td.HienThiTuLienQuan(tam, ref mangchuatu);
                 int dem = 0;
