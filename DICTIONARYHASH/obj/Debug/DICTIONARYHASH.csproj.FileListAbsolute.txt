@@ -1,0 +1,10 @@
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\bin\Debug\DICTIONARYHASH.exe.config
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\bin\Debug\DICTIONARYHASH.exe
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\bin\Debug\DICTIONARYHASH.pdb
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.csprojAssemblyReference.cache
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.frmTrangChu.resources
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.Properties.Resources.resources
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.csproj.GenerateResource.cache
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.exe
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.pdb
+C:\Users\Thai Bao\Desktop\DICTIONARYHASH\obj\Debug\DICTIONARYHASH.fromAddnewword.resources
