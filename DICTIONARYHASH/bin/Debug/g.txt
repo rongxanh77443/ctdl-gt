@@ -1,14 +1,14 @@
 gay-[adj]- /gei/-vui vẻ, vui tươi hớn hở
-gelding-[noun]- /'geldiŋ/-sự thiến
 gaze-[noun]- /geiz/-cái nhìn chằm chằm
 gendarme-[noun]- /'ЗỴ:ndα:m/-sen đầm
 genealogical-[adj]- /,dЗi:njз'lodЗikзl/-(thuộc) phả hệ
 gabber-[noun]- /'gæbз/-người hay ba hoa, người hay bẻm mép
-gamekeeper-[noun]- /'geim,ki:pз/-người canh rừng không cho săn trộm
 girl-[noun]- /gз:l/-con gái
 gave-[noun]- /giv/-cho, biếu, tặng, ban
 game-[noun]- /geim/-trò chơi
 give-[verbs]- /giv/-cho, biếu, tặng, ban
+gable-[noun]- /'geibl/-đầu hồi
+generality-[noun]- /,dЗenз'ræliti/- nguyên tắc chung chung
 girt-[noun]- /gз:d/-sự nhạo báng, sự chế nhạo, sự chế giễu, sự giễu cợt
 gift-[noun]- /gift/-sự ban cho, sự cho, sự tặng
 genesis-[noun]- /'dЗenisis/-căn nguyên, nguồn gốc
@@ -16,6 +16,6 @@ gene-[noun]- /dЗi:n/- Gen
 general-[adj]- /'dЗenзrзl/-chung, chung chung
 generation-[noun]- /,dЗenз'rei∫n/-sự sinh ra, sự phát sinh ra
 gabbler-[noun]- /'gæbз/-người nói lắp bắp
-generality-[noun]- /,dЗenз'ræliti/- nguyên tắc chung chung
+gelding-[noun]- /'geldiŋ/-sự thiến
 gammer-[noun]- /'gæmз/-(thông tục) bà già
-gable-[noun]- /'geibl/-đầu hồi
+gamekeeper-[noun]- /'geim,ki:pз/-người canh rừng không cho săn trộm

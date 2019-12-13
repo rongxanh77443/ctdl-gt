@@ -1,4 +1,5 @@
 unalloyed-[adj]-/'ʌnə'lɔid/-không pha trộn, nguyên chất (kim loại)
+utilization-[noun]-/utilization/-sự sử dụng  
 utilize-[verb]-/utilize/-dùng
 uncontained-[adj]-/uncontained/-không bị kiềm chế
 unambition-[noun]-/unambition/-sự không ham muốn, sự không có tham vọng, sự không  
@@ -18,7 +19,6 @@ utility-[noun]-/utility/- lợi ích
 unallowed-[adj]-/'ʌnə'laud/-bị cấm, không được phép, trái phép
 undenied-[adj]-/undenied/-không chối cãi, thú nhận
 utricle-[noun]-/'ju:trikl/-(sinh vật học) túi nhỏ (trong c thể)
-useless-[adj]-/'ju:slis/-vô ích, vô dụng, không dùng được
 utmost-[adv]-/' tmoust/ (uttermost) /' t moust/-xa nhất, cuối cùng
 underbough-[verb]-/'ʌndə'bai/-mua giá hạ, mua giá rẻ
 utter-[adv]-utter /' t /-hoàn toàn
@@ -33,5 +33,5 @@ unbecome-[verb]-/unbecome/-không thích hợp
 unambitious-[adj]-/'ʌnæm'biʃəs/-không ham muốn, không có tham vọng
 user-[noun]-/'ju:z /-người dùng, người hay dùng
 uxoriousness-[noun]-  / k's :ri snis/-(thông tục) tính rất mực yêu vợ
-utilization-[noun]-/utilization/-sự sử dụng  
+useless-[adj]-/'ju:slis/-vô ích, vô dụng, không dùng được
 utterance-[noun]-/' t r ns/-sự phát biểu, sự bày tỏ  

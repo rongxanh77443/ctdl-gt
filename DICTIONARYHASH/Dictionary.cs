@@ -11,7 +11,7 @@ namespace DICTIONARYHASH
         // Khai báo 1 mảng dataflow gồm 26 ô ứng với 26 ký tự trong bảng alphabet
         public Dataflow[] ds = new Dataflow[26];
         // Khai báo 1 mảng chứa tên file chưa dữ liệu ứng với từng ký tự
-        private string[] dsFileName = new string[26];
+        private string[] dsFileName = new string[26]; 
 
         //Khởi tạo bộ từ điển từ tất cả các file hiện lên trên list từ
         public Dictionary()			

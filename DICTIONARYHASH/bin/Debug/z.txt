@@ -2,9 +2,8 @@ zone- [noun] - /zoun/ - (địa lý,địa chất) đới, khu vực, miên, vù
 zygote- [noun] - /'zaigout/ - (thực vật học) hợp tử
 zappy- [abj]- - phấn chấn, phấn khởi
 zealotry- [noun] -  /'zelətizm/ - lòng cuồng tín, tính quá khích
-zealotism - [noun] - /'zelətizm/  - cuồng tín, quá khích
 zippy- [abj] - /zipi/ - hăng hái, nhiệt tình
-zoological- [noun] - /,zouə'lɔdʤikəl/ - (thuộc) động vật học
+zambo- [noun] - /zæmbou/ - (Zambo) người lai da đen
 zebra- [noun] - /'zi:brə/ - (động vật học) ngựa vằn
 zinc- [noun] - /ziɳk/ - kẽm
 zillion- [noun] - /'zili?n/ - con số vô cùng lớn
@@ -16,23 +15,24 @@ zloty- [noun] - /'zlɔti/ - đồng zlôti (tiền Ba lan)
 zither- [noun] - /'ziθə/ - đàn tam thập lục
 zoo- [noun] - /zu:/ - (thông tục) ((viết tắt) của zoological garden) vườn bách thú, vườn thú
 zed- [noun] - /zed/ - chữ Z
+zombie- [noun] - /'z?mbi/ - thây ma sống lại nhờ phù phép
 zee- [noun] - /zi:/ - (từ Mỹ,nghĩa Mỹ) chữ Z
 zeta- [noun] - /zeta/ - zêta (chữ thứ sáu của bảng chữ cái Hi lạp)
 zing- [noun] - /z??/ - sức sống, tính sinh động
 zoologist- [noun] - /zou'ɔlədʤist/ - nhà động vật học
 zephyr- [noun] - /'zefə/ - gió tây , (thơ ca) gió mát, gió hiu hiu, gió nhẹ
-zebu- [noun] - /'zi:bu:/ - (động vật học) bò u
 zigzag- [noun] - /'zigzæg/ - hình chữ chi, đường chữ chi, hầm hào chữ chi
 zany- [noun] - /'zeini/ - người ngu, người đần, người khờ dại
+zest- [noun] - /zest/ - điều thú vị, điều vui vẻ
 zootomic- [abj] - /,zouə'tɔmik/ - (thuộc) giải phẫu động vật
 zeus- [noun] - zju:s/ - (Zeus) (thần thoại,thần học) thần Dớt, thần vương
-zest- [noun] - /zest/ - điều thú vị, điều vui vẻ
-zambo- [noun] - /zæmbou/ - (Zambo) người lai da đen
+zealotism - [noun] - /'zelətizm/  - cuồng tín, quá khích
+zoological- [noun] - /,zouə'lɔdʤikəl/ - (thuộc) động vật học
 zeal- [noun] - /zi:l/ - lòng sốt sắng, lòng hăng hái,nhiệt tâm, nhiệt huyết
 zoomorphic- [abj] -  /,zounou'mɔ:fik/ - (thuộc) biến thái động vật, có biến thái động vật
 zaffer- [noun] - /'zæfə/ - phẩm lục (coban oxyt, dùng làm chất màu)
 zero- [noun] - /'ziərou/ - (toán học), (vật lý) zêrô, số không
-zombie- [noun] - /'z?mbi/ - thây ma sống lại nhờ phù phép
+zebu- [noun] - /'zi:bu:/ - (động vật học) bò u
 zygospore- [noun] - /'zaigəspɔ:/ - (thực vật học) bào tử tiếp hợp
 zodiac- [noun] - /'zoudiæk/ - (thiên văn học) hoàng đạo
 zen- [noun] - /zen/ - phái Zen, phái Thiền

@@ -8,7 +8,9 @@ on- [noun] - /ɔn/ - trên, ở trên, dựa trên, dựa vào
 omelette- [noun] - /'ɔmlit/ - trứng tráng
 ogive- [noun] - /'oudʤaiv/ - hình cung nhọn,vòm hình cung nhọn
 one- [noun]- /wʌn/ - một, như thế không thay đổi
+or- [noun] - /ɔ:/ - vàng (ở huy hiệu)
 other- [abj] - /'ʌðə/ - khác
+optics- [noun] - /'ɔptiks/ - quang học
 obtain- [noun] - obtain - đạt được, thu được, giành được, kiếm được
 opinion- [noun] - /ə'pinjən/ - ý kiến, quan điểm
 odd- [noun] - /ɔd/ - (the odd) (thể dục,thể thao) cú đánh thêm (chơi gôn)
@@ -25,23 +27,21 @@ occur- [verb] - /ə'kə:/ - xảy ra, xảy đên
 out- [abv] - /aut/ - ngoài, ở ngoài, ra ngoài
 oaf- [noun] - /ouf/ - đứa bé sài đẹn, đứa bé bụng ỏng đít eo
 organ- [noun] - /'ɔ:gən/ - đàn ống (dùng trong nhà thờ)
-offish- [abj] - /'ɔfiʃ/ - (thông tục) khinh khỉnh, cách biệt
 olive- [noun] - /'ɔliv/ - (thực vật học) cây ôliu, quả ôliu, gỗ ôliu, màu ôliu
 osean- [noun] - /'ouʤə/ - (thực vật học) cây liễu
 orient- [noun] - /'ɔ:riənt/ - (the orient) phương đông, nước ánh (của ngọc trai), ngọc trai (loại quý nhất), (thơ ca) hướng đông
 oil- [noun] - /ɔil/ - dầu, (số nhiều) tranh sơn dầu
-open- [noun] - /'oupən/ -  mở, ngỏ, mở rộng, không hạn chế, không cấm
 ought- [verb] - /ɔ:t/ - phải, nên
 orange- [noun] - /'ɔrindʤ/ - quả cam, cây cam, màu da cam
 only- [noun] - /'ounli/ - chỉ có một, duy nhất, tốt nhất, đáng xét nhất
 our- [pos abj] - /'auə/ - của chúng ta, của chúng tôi, của chúng mình
 oakum- [noun] - /'oukəm/ - xơ dây thừng cũ (dùng để bịt khe hở ở thuyền...)
 once- [noun] - /wʌns/ - một lần, một khi, trước kia, xưa kia
-or- [noun] - /ɔ:/ - vàng (ở huy hiệu)
+offish- [abj] - /'ɔfiʃ/ - (thông tục) khinh khỉnh, cách biệt
 oath- [noun] - /ouθ/ - lời thề, lời tuyên thệ
 off- [abv] - /ɔ:f/ - tắt, ra khỏi, đứt, rời
 oak- [noun] - /ouk/ - (thực vật học) cây sồi
 operate- [verb]- - hoạt động (máy...), có tác dụng
 obey- [noun] - /ə'bei/ - vâng lời nghe lời, tuân theo, tuân lệnh
-optics- [noun] - /'ɔptiks/ - quang học
+open- [noun] - /'oupən/ -  mở, ngỏ, mở rộng, không hạn chế, không cấm
 oasis- [noun] - /ou'eisi:z/ - (địa lý,địa chất) ốc đảo

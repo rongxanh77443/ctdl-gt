@@ -48,26 +48,19 @@ namespace DICTIONARYHASH
         //Hàm write file
         public void WriteFile()					
         {
-            //Nếu file tồn tại thì xóa file đó.
             if (File.Exists(fileName)) File.Delete(fileName);
-            //Tạo một file mới
             FileStream myFile = new FileStream(fileName, FileMode.Create);
-            //Viết lại file
             StreamWriter sw = new StreamWriter(myFile);
-            //Khởi tạo một từ để chuẩn bị viết vào
-            Word w = new Word();
-            string s = w.tuloai + w.phatam + w.nghia;
+            Word w;
+            //string s =  w.tuloai + w.phatam  + w.nghia;
 
             foreach (DictionaryEntry a in ds)
             {
-                //Ghi xuống file
-                sw.WriteLine(a.Key + ":" + a.Value + ":" + w.tuloai + a.Value + ":" + w.phatam + a.Value + w.nghia);
-                //Đẩy các dữ liệu còn lại xuống file
+                w = (Word)a.Value;
+                sw.WriteLine(w.Key + "-" + w.Tuloai + "-" + w.Phatam + "-" + w.Nghia);
                 sw.Flush();
             }
-            //Đóng kết nối streamwriter
             sw.Close();
-            //Đóng file
             myFile.Close();
         }
 

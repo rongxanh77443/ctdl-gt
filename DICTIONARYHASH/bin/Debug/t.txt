@@ -1,28 +1,28 @@
 tell-[verb]-/tel/-nói, nói với, nói lên, nói ra
 technical-[adj]-'teknikəl/-(thuộc) kỹ thuật, chuyên môn
 tasteful-[adj]-/'teistful/ -nhã, trang nhã, có óc thẩm mỹ 
-teach-[verb]- /ti:tʃ/-dạy, dạy học, dạy bảo, dạy dỗ
 teg-[noun]-/teg/-con cừu hai tuổi
-teapot-[noun]-/'ti:pɔt/-ấm pha trà
 tastefully-[adv]-/tastefully/-nhã, trang nhã
+tropical-[adj]-/'trɔpikəl/-nhiệt đới
 t-[noun]-/ti:/-vật hình T
 tasty-[adj]-/'teisti/-ngon
 taste-[noun]-/teist/-vị  ví dụ: sweet taste: vị ngọt
 tabefy-[verb]-/tabefy/-làm cho kiệt sức, gầy mòn
 teacher-[noun]-'ti:tʃə/-giáo viên, cán bộ giảng dạy  
 teer-[verb]-/teer/-bôi, trát   
+ticket-[noun]-/'tikit/-vé
 tube-[noun]-/tju:b/-ống
 tiger-[noun]-/'taigə/-hổ, cọp       
 throw-[noun]- /θrou/-sự ném, sự vứt, sự quăng, sự liệng
 tastily-[adv]-/tastily/-ngon, đầy hương vị
 television-[noun]-/'teli,viʤn/-sự truyền hình
+telephoto-[noun]- /'teli'foutou/ (telephotograph) /'teli'foutəgrɑ:f/-ảnh chụp xa
 trouble-[noun]-/'trʌbl/-điều lo lắng, điều phiền muộn
 tear-[noun]- /tiə/-nước mắt, lệ
 tick-[noun]-/tik/-tiếng tích tắc (của đồng hồ)
 taper-[noun]- /'teipə/-cây nến nhỏ
 thrust-[noun]-/θrʌst/-sự đẩy mạnh, sự xô đẩy
 trousers-[noun]-/'trauzəz/-quần ((cũng) pair of trousers)
-taster-[noun]- /'teistə/-người nếm, người nếm rượu, người nếm trà
 templar-[noun]-/'templə/-học sinh luật, nhà luật học
 team-[noun]- /ti:m/-đội, tổ
 tie-[noun]-/tai/-dây buộc, dây cột, dây trói, dây giày, ca vát
@@ -31,8 +31,8 @@ tea-[noun]-/ti:/-cây chè, chè, trà, nước chè, nước trà
 teacup-[noun]-/'ti:kʌp/-tách, chén uống trà
 teenager-[noun]-/teenager/- thanh thiếu niên
 thunder-[noun]-/'θʌndə/-sấm, sét
-tropical-[adj]-/'trɔpikəl/-nhiệt đới
-ticket-[noun]-/'tikit/-vé
+taster-[noun]- /'teistə/-người nếm, người nếm rượu, người nếm trà
+teach-[verb]- /ti:tʃ/-dạy, dạy học, dạy bảo, dạy dỗ
 thumb-[noun]-/θʌm/-ngón tay cái
 technologist-[noun]-/tek'nɔlədʤist/-kỹ sư công nghệ
 ten-[noun]-/ten/-số mười, nhóm mười, bộ mười
@@ -40,4 +40,4 @@ telecontrol-[noun]-/,telikən'troul/-sự điều khiển từ xa
 technology-[noun]-/tek'nɔlədʤi/-kỹ thuật,kỹ thuật học, công nghệ học
 taberdar-[verb]-/taberdar/-người khoác áo choàng
 task -[noun]-/tɑ:sk/-nhiệm vụ, nghĩa vụ, phận sự
-telephoto-[noun]- /'teli'foutou/ (telephotograph) /'teli'foutəgrɑ:f/-ảnh chụp xa
+teapot-[noun]-/'ti:pɔt/-ấm pha trà
