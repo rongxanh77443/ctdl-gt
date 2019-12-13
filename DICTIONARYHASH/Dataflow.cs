@@ -174,7 +174,7 @@ namespace DICTIONARYHASH
                 return true;
             else return false;
         }
-        //int toan bo tu khoa
+        //
         public string intoanbo()
         {
             string s = "";
@@ -188,7 +188,7 @@ namespace DICTIONARYHASH
 
 
 
-        //sửa lại nè........
+        //
         public void inkey(ref string[] s)
         {
             int i = 0;

@@ -16,6 +16,7 @@ namespace DICTIONARYHASH
         //Khởi tạo bộ từ điển từ tất cả các file hiện lên trên list từ
         public Dictionary()			
         {
+            //Gán giá trị là tên file ứng với thứ tự trong mảng
             dsFileName[0] = "a.txt"; dsFileName[1] = "b.txt"; dsFileName[2] = "c.txt"; dsFileName[3] = "d.txt";
             dsFileName[4] = "e.txt"; dsFileName[5] = "f.txt"; dsFileName[6] = "g.txt"; dsFileName[7] = "h.txt";
             dsFileName[8] = "i.txt"; dsFileName[9] = "j.txt"; dsFileName[10] = "k.txt"; dsFileName[11] = "l.txt";
@@ -64,6 +65,7 @@ namespace DICTIONARYHASH
         {
             string kq = "";
             int i = hashkey(key);
+            Console.WriteLine("Char "+ key+" hash to: "+i);
             //Ứng với danh sách mã hash rồi search từ đó bằng key
             kq = ds[i].SearchWord(key);
             return kq;
@@ -72,6 +74,7 @@ namespace DICTIONARYHASH
         public void HienThiTuLienQuan(string key, ref string[] mangchuakey)
         {
             int i = hashkey(key);
+            Console.WriteLine("Char " + key + " hash to: " + i);
             string[] keys = new string[50];
             int dem;
             ds[i].hienthitucolienquan(key, ref keys, out dem);
@@ -102,6 +105,7 @@ namespace DICTIONARYHASH
         {
             //Lấy mã hash
             int i = hashkey(key);
+            Console.WriteLine("Char " + key + " hash to: " + i);
             if (ds[i].timkiem(key) == false)
             {
                 ds[i].AddWord(key, tuloai, phatam, nghia);
